@@ -1,1 +1,1 @@
-'''Pages app migrations package.'''
+"""Pages app migrations package."""
