@@ -1,1 +1,1 @@
-'''Pages application package.'''
+"""Pages application package."""
